@@ -27,7 +27,7 @@ Save the data to the file
 
 NAME: DHIVYAPRIYA.R
 
-REGISTER NO,; 212222230032
+REGISTER NO.: 212222230032
 
 import pandas as pd
 

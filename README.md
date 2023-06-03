@@ -312,6 +312,7 @@ plt.show()
 ![Screenshot 2023-05-23 113043](https://github.com/dhivyapriyar/Ex-07-Feature-Selection/assets/119477552/5415aa20-5a12-44a9-ba64-3ac44dd91e3b)
 ![Screenshot 2023-05-23 113055](https://github.com/dhivyapriyar/Ex-07-Feature-Selection/assets/119477552/be8a8bd4-5e1b-43b7-a894-42e8c5d5b2d5)
 ![Screenshot 2023-05-23 113113](https://github.com/dhivyapriyar/Ex-07-Feature-Selection/assets/119477552/6bae7859-ac3c-4799-aa84-0434a44e622a)
-![Screenshot 2023-05-23 113204](https://github.com/dhivyapriyar/Ex-07-Feature-Selection/assets/119477552/240f3023-174e-453c-9141-09848f91a16f)
+![238543894-19920a1b-d07e-4649-9217-3adc70f7ce26](https://github.com/dhivyapriyar/Ex-07-Feature-Selection/assets/119477552/161b3a70-16f2-4572-a9d2-725ff2db24a4)
 
-
+RESULT
+The various feature selection techniques are performed on a dataset and saved the data to a file.

@@ -315,4 +315,5 @@ plt.show()
 ![238543894-19920a1b-d07e-4649-9217-3adc70f7ce26](https://github.com/dhivyapriyar/Ex-07-Feature-Selection/assets/119477552/161b3a70-16f2-4572-a9d2-725ff2db24a4)
 
 RESULT
+
 The various feature selection techniques are performed on a dataset and saved the data to a file.
